@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShockTube", "ShockTube\ShockTube.vcxproj", "{843A2380-B523-4A73-925A-5BA5FF6C19AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShockTubeTest", "ShockTubeTest\ShockTubeTest.vcxproj", "{A00AC91E-8BBC-426C-B592-BA67BD0F6E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843A2380-B523-4A73-925A-5BA5FF6C19AF}.Debug|x64.ActiveCfg = Debug|x64
+		{843A2380-B523-4A73-925A-5BA5FF6C19AF}.Debug|x64.Build.0 = Debug|x64
+		{843A2380-B523-4A73-925A-5BA5FF6C19AF}.Release|x64.ActiveCfg = Release|x64
+		{843A2380-B523-4A73-925A-5BA5FF6C19AF}.Release|x64.Build.0 = Release|x64
+		{A00AC91E-8BBC-426C-B592-BA67BD0F6E73}.Debug|x64.ActiveCfg = Debug|x64
+		{A00AC91E-8BBC-426C-B592-BA67BD0F6E73}.Debug|x64.Build.0 = Debug|x64
+		{A00AC91E-8BBC-426C-B592-BA67BD0F6E73}.Release|x64.ActiveCfg = Release|x64
+		{A00AC91E-8BBC-426C-B592-BA67BD0F6E73}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15369064-1EED-4616-A639-540052F0EE26}
+	EndGlobalSection
+EndGlobal

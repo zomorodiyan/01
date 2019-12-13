@@ -1,0 +1,20 @@
+03x th initialize method 
+04- The initialize method 
+07- Can call showAverage method
+08- The showAverage method works
+09- Can call reflectionBoundaryCondition method by reference
+10- The reflectionBoundaryCondition method works
+11- Can call evaluateCMax 
+12- The evaluateCMax works
+13- Can call evaluateTau
+14- The evaluateTau works
+15- Can call laxWendroffStep
+16- The laxWendroffStep works
+17- can Call lapidusViscosity
+18- The lapidusViscosity works
+19- One iteration is complete
+20- Multiple iterations are complete
+21- Can call RoeStep
+22- The RoeStep works
+23- Can call writeFile method
+24- The writeFile method works
